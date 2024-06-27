@@ -9,7 +9,7 @@ import java.net.URLEncoder;
 
 public class ApiExplorer {
 
-    private static final String serviceKey = "dXiOaPTv%2B%2BmtxN%2BBvSbXkVYM94MJMYArMLGBR2HWh7oBkSAZCOcajnFsveNRYFnV3aAK57W8jXedpwiE69EFsg%3D%3D";
+    private static final String serviceKey = "ServiceKey";
 
     // 버스 노선 검색 -> 공공데이터 포터 제공 API 예제 활용
     public static String getBusList(String strSrch) throws IOException {
